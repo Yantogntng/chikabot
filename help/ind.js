@@ -80,7 +80,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
     return `
 *Selamat ${salam} ${pushname} 😖*
 *⌚Time Server : ${time}*
-*📚 List-Menu Chika Beta :*
+*📚 List-Menu Renz Beta :*
 
 🤖 *INFO*
 ├ ${prefix}owner
@@ -134,7 +134,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 
 🙏 *THANKS*
 ├ Xfarr api
-├ Baileys#multi-device
+├ RENZ-MD
 ├ and all support
 └──────
 
@@ -172,9 +172,9 @@ Sanksi: *‼️ PERMANENT BLOCK ‼️*
 
 Jika sudah dipahami rules-nya, silakan ketik *${prefix}allmenu* untuk memulai!
 
-⚠️ Segala kebijakan dan ketentuan ChikaBot di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
+⚠️ Segala kebijakan dan ketentuan RenzBot di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
 
-Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan chika-bot
+Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan Renz-bot
 😖🙏
 
 
